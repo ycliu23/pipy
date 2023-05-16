@@ -1,2 +1,2 @@
 # pipy
-Generating power spectra from images
+Power spectrum estimation from images
